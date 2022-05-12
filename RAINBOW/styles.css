@@ -1,0 +1,287 @@
+
+body {
+  margin-left: 28%;
+  margin-top: 25px;
+}
+
+div {
+  width: 43px;
+  height: 43px;
+  background-color: grey;
+  display: inline-flex;
+}
+
+.firstrow {
+  padding: 0%;
+  margin: 0%;
+  background-color: red;
+}
+
+.secondrow {
+  padding: 0%;
+  margin: 0%;
+}
+
+.thirdrow {
+
+  padding: 0%;
+  margin: 0%;
+}
+
+.fourthrow {
+  padding: 0%;
+  margin: 0%;
+}
+
+.fifthrow {
+  padding: 0%;
+  margin: 0%;
+}
+
+.sixthrow {
+  padding: 0%;
+  margin: 0%;
+}
+
+.seventhrow {
+  padding: 0%;
+  margin: 0%;
+}
+
+.eightrow {
+  padding: 0%;
+  margin: 0%;
+}
+
+.ninthrow {
+  padding: 0%;
+  margin: 0%;
+}
+
+.tenthrow {
+  padding: 0%;
+  margin: 0%;
+}
+
+.eleventhrow {
+  padding: 0%;
+  margin: 0%;
+}
+
+.twelvthrow {
+  padding: 0%;
+  margin: 0%;
+}
+
+.thirteenthrow {
+  padding: 0%;
+  margin: 0%;
+}
+
+.fourteenthrow {
+  padding: 0%;
+  margin: 0%;
+  background-color: red;
+}
+
+#a15,#a16,#a17,#a18,#a19,#a20,#a23,#a24,#a25,#a26,#a27,#a28,#a29,#a30,#a31,#a32,#a33,#a38,#a39,#a40,#a41,#a42,#a43,#a44,#a45,#a46,#a53,#a54,#a55,#a56,#a57,#a58,#a59,#a68,#a69,#a70,#a71,#a72,#a83,#a84,#a85,#a98,#a99,#a112,#a113,#a114,#a125,#a126,#a127,#a128,#a129,#a138,#a139,#a140,#a141,#a142,#a143,#a144,#a151,#a152,#a153,#a154,#a155,#a156,#a157,#a158,#a159,#a164,#a165,#a166,#a167,#a168,#a169,#a170,#a171,#a172,#a173,#a174,#a177,#a178,#a179,#a180,#a181,#a182 {
+  background-color: red;
+}
+
+#a21,#a34,#a47,#a60,#a73,#a86 {
+  background-image: linear-gradient(to bottom right, red,orange);
+}
+
+#a22,#a37,#a52,#a67,#a82,#a97 {
+  background-image: linear-gradient(to bottom left,red,orange);
+}
+
+#a100,#a115,#a130,#a145,#a160,#a175 {
+  background-image: linear-gradient(to top right,red,orange);
+}
+
+#a111,#a124,#a137,#a150,#a163,#a176 {
+  background-image: linear-gradient(to top left,red,orange);
+}
+
+#a35,#a48,#a61,#a74,#a87 {
+  background-image: linear-gradient(to bottom right,orange,yellow);
+}
+
+#a36,#a51,#a66,#a81,#a96 {
+  background-image: linear-gradient(to bottom left,orange,yellow);
+}
+
+#a101,#a116,#a131,#a146,#a161 {
+  background-image: linear-gradient(to top right,orange,yellow);
+}
+
+#a110,#a123,#a136,#a149,#a162 {
+  background-image: linear-gradient(to top left,orange,yellow);
+}
+
+#a49,#a62,#a75,#a88 {
+  background-image: linear-gradient(to bottom right,yellow,green);
+}
+
+#a50,#a65,#a80,#a95 {
+  background-image: linear-gradient(to bottom left,yellow,green);
+}
+
+#a102,#a117,#a132,#a147 {
+  background-image: linear-gradient(to top right,yellow,green);
+}
+
+#a109,#a122,#a135,#a148 {
+  background-image: linear-gradient(to top left,yellow,green);
+}
+
+#a63,#a76,#a89 {
+  background-image: linear-gradient(to bottom right,green,blue);
+}
+
+#a64,#a79,#a94 {
+  background-image: linear-gradient(to bottom left,green,blue);
+}
+
+#a103,#a118,#a133 {
+  background-image: linear-gradient(to top right,green,blue);
+}
+
+#a108,#a121,#a134 {
+  background-image: linear-gradient(to top left,green,blue);
+}
+
+#a77,#a90 {
+  background-image: linear-gradient(to bottom right,blue,indigo);
+}
+
+#a78,#a93 {
+  background-image: linear-gradient(to bottom left,blue,indigo);
+}
+
+#a104,#a119 {
+  background-image: linear-gradient(to top right,blue,indigo);
+}
+
+#a107,#a120 {
+  background-image: linear-gradient(to top left,blue,indigo);
+}
+
+#a91 {
+  background-image: linear-gradient(to bottom right,indigo,violet);
+}
+
+#a92 {
+  background-image: linear-gradient(to bottom left,indigo,violet);
+}
+
+#a105 {
+  background-image: linear-gradient(to top right,indigo,violet);
+}
+
+#a106 {
+  background-image: linear-gradient(to top left,indigo,violet);
+}
+
+/* greys */
+
+#a7,#a20,#a33,#a46,#a59,#a72,#a85 {
+  background-image: linear-gradient(to bottom right,rgb(120, 0, 0),red);
+}
+
+#a8,#a23,#a38,#a53,#a68,#a83,#a98 {
+  background-image: linear-gradient(to bottom left,rgb(120, 0, 0),red);
+}
+
+#a99,#a114,#a129,#a144,#a159,#a174,#a189 {
+  background-image: linear-gradient(to top right,rgb(120, 0, 0),red);
+}
+
+#a112,#a125,#a138,#a151,#a164,#a177,#a190 {
+  background-image: linear-gradient(to top left,rgb(120, 0, 0),red);
+}
+
+#a6,#a19,#a32,#a45,#a58,#a71 {
+  background-image: linear-gradient(to bottom right,rgb(100, 0, 0),rgb(120, 0, 0));
+}
+
+#a9,#a24,#a39,#a54,#a69,#a84 {
+  background-image: linear-gradient(to bottom left,rgb(100, 0, 0),rgb(120, 0, 0));
+}
+
+#a113,#a128,#a143,#a158,#a173,#a188 {
+  background-image: linear-gradient(to top right,rgb(100, 0, 0),rgb(120, 0, 0));
+}
+
+#a126,#a139,#a152,#a165,#a178,#a191 {
+  background-image: linear-gradient(to top left,rgb(100, 0, 0),rgb(120, 0, 0));
+}
+
+#a5,#a18,#a31,#a44,#a57 {
+  background-image: linear-gradient(to bottom right,rgb(80, 0, 0),rgb(100, 0, 0));
+}
+
+#a10,#a25,#a40,#a55,#a70 {
+  background-image: linear-gradient(to bottom left,rgb(80, 0, 0),rgb(100, 0, 0));
+}
+
+#a127,#a142,#a157,#a172,#a187 {
+  background-image: linear-gradient(to top right,rgb(80, 0, 0),rgb(100, 0, 0));
+}
+
+#a140,#a153,#a166,#a179,#a192 {
+  background-image: linear-gradient(to top left,rgb(80, 0, 0),rgb(100, 0, 0));
+}
+
+#a4,#a17,#a30,#a43 {
+  background-image: linear-gradient(to bottom right,rgb(60, 0, 0),rgb(80, 0, 0));
+}
+
+#a11,#a26,#a41,#a56 {
+  background-image: linear-gradient(to bottom left,rgb(60, 0, 0),rgb(80, 0, 0));
+}
+
+#a141,#a156,#a171,#a186 {
+  background-image: linear-gradient(to top right,rgb(60, 0, 0),rgb(80, 0, 0));
+}
+
+#a154,#a167,#a180,#a193 {
+  background-image: linear-gradient(to top left,rgb(60, 0, 0),rgb(80, 0, 0));
+}
+
+#a3,#a16,#a29 {
+  background-image: linear-gradient(to bottom right,rgb(40, 0, 0),rgb(60, 0, 0));
+}
+
+#a12,#a27,#a42 {
+  background-image: linear-gradient(to bottom left,rgb(40, 0, 0),rgb(60, 0, 0));
+}
+
+#a155,#a170,#a185 {
+  background-image: linear-gradient(to top right,rgb(40, 0, 0),rgb(60, 0, 0));
+}
+
+#a168,#a181,#a194 {
+  background-image: linear-gradient(to top left,rgb(40, 0, 0),rgb(60, 0, 0));
+}
+
+#a2,#a15 {
+  background-image: linear-gradient(to bottom right,rgb(20, 0, 0),rgb(40, 0, 0));
+}
+
+#a13,#a28 {
+  background-image: linear-gradient(to bottom left,rgb(20, 0, 0),rgb(40, 0, 0));
+}
+
+#a169,#a184 {
+  background-image: linear-gradient(to top right, rgb(20, 0, 0),rgb(40, 0, 0));
+}
+
+#a182,#a195 {
+  background-image: linear-gradient(to top left,rgb(20, 0, 0),rgb(40, 0, 0));
+}
+
+#a1,#a14,#a183,#a196 {
+  background-color: rgb(0, 0, 0);
+}
